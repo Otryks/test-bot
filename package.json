@@ -4,7 +4,8 @@
   "description": "simple discord bot",
   "main": "main.js",
   "scripts": {
-    "test": "npm start"
+    "test": "npm test",
+    "start": "npm start"
   },
   "repository": {
     "type": "git",
