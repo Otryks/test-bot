@@ -1,0 +1,25 @@
+{
+  "name": "test-bot",
+  "version": "1.0.0",
+  "description": "simple discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Otryks/test-bot.git"
+  },
+  "keywords": [
+    "discord"
+  ],
+  "author": "Oliveer.eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Otryks/test-bot/issues"
+  },
+  "homepage": "https://github.com/Otryks/test-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
